@@ -1,2 +1,2 @@
-# Curse
+# Course
 Course Repository
